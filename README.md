@@ -7,4 +7,6 @@ More annoying than this, is that the app automatically starts when connecting bl
 
 Since I don't use, and don't need Music, I made this automator to launch at startup to close the app as soon as it opens.
 
+Just use the Activity Monitor to close it if you need.
+
 It uses about 7.5 MB of RAM.
